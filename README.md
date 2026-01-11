@@ -1,2 +1,3 @@
 # Flight-Data-Anlaysis-with-python
-This project analyzes flight data using Python to study delays, airline performance, and travel patterns. Data cleaning and visualization techniques are used to identify key trends in flights and airports. The project helps understand factors affecting delays and overall flight operations.
+This project explores a real-world flight ticket dataset to understand how prices change based on various factors including airline, route, travel class, and the number of days left before departure.
+It demonstrates end-to-end data analysis: data cleaning → EDA → insights → visualizations.
